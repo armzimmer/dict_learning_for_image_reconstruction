@@ -10,8 +10,8 @@ The algorithm implemented in the Jupyter notebook reconstructs images from event
 
 Installation
 =========================================================
-If Jupyter is already installed, open the Notebook. If not, install Jupyter notebook (for Linux: pip3 install jupyter), and then open the notebook.
+If Jupyter is already installed, open the [dictionary learning notebook](/dictionary_learning_on_events.ipynb). If not, install Jupyter notebook (for Linux: pip3 install jupyter), and then open the notebook.
 
 Learn a dictionary
 =========================================================
-To run the code, download the datasets from [dataset](/dataset), and you are good to go.
+To run the code, download the [datasets](/dataset), open the [dictionary learning notebook](/dictionary_learning_on_events.ipynb), and you are good to go.
